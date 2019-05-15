@@ -22,7 +22,7 @@
       "publishedAt": "2019-04-26T16:49:43Z",
       "content": "More posts by this contributor\r\nAmidst the newly minted scooter unicorns, ebbs and flows of bitcoin investments and wagers on the price of Uber’s IPO, another trend has shaken up the tech industry: the explosion of enterprise software successes.\r\nBessemer not… [+5694 chars]",
       "follow": "follow",
-      "index": "noindex"
+      "index": "index"
     },
     {
       "id": "3",
@@ -34,7 +34,7 @@
       "publishedAt": "2019-04-26T16:49:21Z",
       "content": "By CCN.com: A notice on the official website for the City of Berkeley police department warns residents of phone scams involving Bitcoin. Calling them cyber-enabled fraud crime, the post talks about a woman who scammers attempted to victimize via telephone ev… [+2419 chars]",
       "follow": "follow",
-      "index": "noindex"
+      "index": "index"
     },
     {
       "id": "4",
@@ -46,7 +46,7 @@
       "publishedAt": "2019-04-26T14:52:25+00:00",
       "content": "The Pentagon is preparing to approve a loosening of rules that bar troops from interacting with migrants entering the United States, expanding the militarys involvement in President Trumps operation along the southern border.\r\nSenior Defense Department offici… [+3051 chars]",
       "follow": "follow",
-      "index": "noindex"
+      "index": "index"
     }    
   ],
   "about": {
@@ -55,6 +55,6 @@
     "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit pariatur facere eligendi qui repellendus suscipit, non culpa quidem est ex eveniet eum doloribus! Eius consequatur, incidunt eaque officia magni iure! ",
     "slug": "about-us",
       "follow": "follow",
-      "index": "noindex"
+      "index": "index"
   }
 }
