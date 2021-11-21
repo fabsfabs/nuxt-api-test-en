@@ -1,152 +1,154 @@
-[
-    {
-        "id": "0",
-        "type": "img",
-        "name": "Example Glossary",
-        "description": {
-            "pathurl": "/images/folder.png",
-            "name": "imgTest",
-            "alt": "img",
-            "caption": "immagine di test",
-            "type": "png"
-        },
-        "size": 6512,
-        "index": 0,
-        "other": [
-            {}
-        ]
-    },
-    {
-        "id": "1",
-        "type": "img",
-        "name": "test",
-        "description": {
-            "pathurl": "/images/download.png",
-            "name": "imgTest",
-            "alt": "img",
-            "caption": "immagine di test",
-            "type": "png"
-        },
-        "size": 1512,
-        "index": 0,
-        "other": [
-            {}
-        ]
-    },
-    {
-        "id": "2",
-        "type": "folder",
-        "name": "prova",
-        "size": 512,
-        "index": 0,
-        "other": [
-            {
-                "id": "2.1",
-                "type": "file",
-                "name": "evvai2",
-                "size": 512,
-                "index": 1,
-                "other": [
-                    {}
-                ]
+{
+    "folders": [
+        {
+            "id": "0",
+            "type": "img",
+            "name": "Example Glossary",
+            "description": {
+                "pathurl": "/images/folder.png",
+                "name": "imgTest",
+                "alt": "img",
+                "caption": "immagine di test",
+                "type": "png"
             },
-            {
-                "id": "2.2",
-                "type": "folder",
-                "name": "evvai3",
-                "size": 512,
-                "index": 1,
-                "other": [
-                    {
-                        "id": "2.11",
-                        "type": "file",
-                        "name": "file-known",
-                        "size": 512,
-                        "index": 2,
-                        "other": [
-                            {}
-                        ]
-                    },
-                    {
-                        "id": "2.12",
-                        "type": "folder",
-                        "name": "folderlast",
-                        "size": 512,
-                        "index": 2,
-                        "other": [
-                            {
-                                "id": "3.1",
-                                "type": "file",
-                                "name": "cartella2",
-                                "size": 512,
-                                "index": 2,
-                                "other": [
-                                    {}
-                                ]
-                            },
-                            {
-                                "id": "3.2",
-                                "type": "file",
-                                "name": "bo",
-                                "size": 512,
-                                "index": 2,
-                                "other": [
-                                    {}
-                                ]
-                            }
-                        ]
-                    }
-                ]
-            }
-            
-        ]
-    },
-    {
-        "id": "3",
-        "type": "folder",
-        "name": "explain",
-        "size": 512,
-        "index": 0,
-        "other": [
-            {
-                "id": "3.1",
-                "type": "folder",
-                "name": "evvai4s",
-                "size": 512,
-                "index": 1,
-                "other": [
-                    {
-                        "id": "3.11",
-                        "type": "file",
-                        "name": "cartella245",
-                        "size": 512,
-                        "index": 2,
-                        "other": [
-                            {}
-                        ]
-                    },
-                    {
-                        "id": "3.12",
-                        "type": "file",
-                        "name": "bo2",
-                        "size": 512,
-                        "index": 2,
-                        "other": [
-                            {}
-                        ]
-                    }
-                ]
+            "size": 6512,
+            "index": 0,
+            "other": [
+                {}
+            ]
+        },
+        {
+            "id": "1",
+            "type": "img",
+            "name": "test",
+            "description": {
+                "pathurl": "/images/download.png",
+                "name": "imgTest",
+                "alt": "img",
+                "caption": "immagine di test",
+                "type": "png"
             },
-            {
-                "id": "3.2",
-                "type": "file",
-                "name": "evvai24",
-                "size": 512,
-                "index": 1,
-                "other": [
-                    {}
-                ]
-            }
-        ]
-    }
-]
+            "size": 1512,
+            "index": 0,
+            "other": [
+                {}
+            ]
+        },
+        {
+            "id": "2",
+            "type": "folder",
+            "name": "prova",
+            "size": 512,
+            "index": 0,
+            "other": [
+                {
+                    "id": "2.1",
+                    "type": "file",
+                    "name": "evvai2",
+                    "size": 512,
+                    "index": 1,
+                    "other": [
+                        {}
+                    ]
+                },
+                {
+                    "id": "2.2",
+                    "type": "folder",
+                    "name": "evvai3",
+                    "size": 512,
+                    "index": 1,
+                    "other": [
+                        {
+                            "id": "2.11",
+                            "type": "file",
+                            "name": "file-known",
+                            "size": 512,
+                            "index": 2,
+                            "other": [
+                                {}
+                            ]
+                        },
+                        {
+                            "id": "2.12",
+                            "type": "folder",
+                            "name": "folderlast",
+                            "size": 512,
+                            "index": 2,
+                            "other": [
+                                {
+                                    "id": "3.1",
+                                    "type": "file",
+                                    "name": "cartella2",
+                                    "size": 512,
+                                    "index": 2,
+                                    "other": [
+                                        {}
+                                    ]
+                                },
+                                {
+                                    "id": "3.2",
+                                    "type": "file",
+                                    "name": "bo",
+                                    "size": 512,
+                                    "index": 2,
+                                    "other": [
+                                        {}
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+                
+            ]
+        },
+        {
+            "id": "3",
+            "type": "folder",
+            "name": "explain",
+            "size": 512,
+            "index": 0,
+            "other": [
+                {
+                    "id": "3.1",
+                    "type": "folder",
+                    "name": "evvai4s",
+                    "size": 512,
+                    "index": 1,
+                    "other": [
+                        {
+                            "id": "3.11",
+                            "type": "file",
+                            "name": "cartella245",
+                            "size": 512,
+                            "index": 2,
+                            "other": [
+                                {}
+                            ]
+                        },
+                        {
+                            "id": "3.12",
+                            "type": "file",
+                            "name": "bo2",
+                            "size": 512,
+                            "index": 2,
+                            "other": [
+                                {}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "3.2",
+                    "type": "file",
+                    "name": "evvai24",
+                    "size": 512,
+                    "index": 1,
+                    "other": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}
